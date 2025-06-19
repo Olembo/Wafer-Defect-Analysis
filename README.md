@@ -1,6 +1,7 @@
 # Wafer Defect Analysis Dashboard
 
 **Author:** Devin Richmond
+
 **Date:** June 2025
 
 ## Overview
